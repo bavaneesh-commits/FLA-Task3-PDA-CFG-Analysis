@@ -139,8 +139,4 @@ Each case study was verified against **10 comprehensive test strings** (5 Accept
 3. Paste your repository link and open `FLA_CLA2_Task3_PDA_CFG.ipynb`.
 4. Click **Runtime -> Run all** (`Ctrl + F9`) to view live stack transitions, parse trees, and test suite execution.
 
----
-**Author:** [Your Name]  
-**Register Number:** [Your Register Number]  
-**Department:** Artificial Intelligence and Machine Learning (AIML)  
-**Institution:** SRM Institute of Science and Technology, Tiruchirappalli
+
